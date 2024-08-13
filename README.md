@@ -37,5 +37,5 @@
   ![github-user-contribution](https://github.com/user-attachments/assets/2c09a542-aeb8-404b-aa96-9e9e4151cb18)
 
 <div style="text-align: center; margin-top: 20px;">
-  Generated with Platane/snk
+  <small><i>Generated with Platane/snk</i></small>
 </div>
