@@ -18,11 +18,11 @@
   <br>
 
   <!-- Estatísticas do GitHub -->
-  <div style="margin-top: 20px; display: flex; justify-content: center; gap: 20px;">
-    <a href="https://github.com/nicolyjjang">
+  <div style="margin-top: 20px; display: flex; justify-content: center; align-items: center;">
+    <a href="https://github.com/nicolyjjang" style="margin-right: 40px;">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolyjjang&show_icons=true&theme=omni&include_all_commits=true&count_private=true">
     </a>
-    <a href="https://github.com/nicolyjjang">
+    <a href="https://github.com/nicolyjjang" style="margin-left: 40px;">
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolyjjang&layout=compact&langs_count=6&theme=omni">
     </a>
   </div>
