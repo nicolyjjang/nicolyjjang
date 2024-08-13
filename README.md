@@ -1,25 +1,28 @@
 ## Hi, I'm Nicoly Jang (●'◡'●)
 
-<div style="text-align: center;">
-  <a href="mailto:nicolyjjang@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.linkedin.com/in/nicoly-jang-9883a0194/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a>
-  <a href="https://www.instagram.com/nicoly_jang/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
+<div style="display: flex; flex-direction: column; align-items: center;">
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <a href="mailto:nicolyjjang@gmail.com">
+      <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    </a>
+    <a href="https://www.linkedin.com/in/nicoly-jang-9883a0194/" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    </a>
+    <a href="https://www.instagram.com/nicoly_jang/" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+    </a>
+  </div>
+
+  <div style="margin-top: 20px;">
+    <a href="https://github.com/nicolyjjang">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolyjjang&show_icons=true&theme=omni&include_all_commits=true&count_private=true">
+    </a>
+    <a href="https://github.com/nicolyjjang">
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolyjjang&layout=compact&langs_count=6&theme=omni">
+    </a>
+  </div>
 </div>
 
-<div style="text-align: center; margin-top: 20px;">
-  <a href="https://github.com/nicolyjjang">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolyjjang&show_icons=true&theme=omni&include_all_commits=true&count_private=true">
-  </a>
-  <a href="https://github.com/nicolyjjang">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolyjjang&layout=compact&langs_count=6&theme=omni">
-  </a>
-</div>
 
 <div style="text-align: center; display: inline-block;">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
