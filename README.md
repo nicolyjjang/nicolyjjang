@@ -1,5 +1,6 @@
 ## Hi, I'm Nicoly Jang (●'◡'●)
 
+
 <div style="display: flex; flex-direction: column; align-items: center;">
   <!-- Redes sociais -->
   <div style="display: flex; justify-content: center; gap: 10px;">
@@ -24,7 +25,6 @@
     </a>
   </div>
 </div>
-
 
 <div style="text-align: center; display: inline-block;">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
