@@ -1,27 +1,43 @@
 ## Hi, I'm Nicoly Jang (●'◡'●)
- <div>
-   <a href="https://github.com/nicolyjjang">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolyjjang&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-    
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolyjjang&layout=compact&langs_count=6&theme=omni"/>
 
+<div style="text-align: center;">
+  <a href="mailto:nicolyjjang@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/nicoly-jang-9883a0194/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.instagram.com/nicoly_jang/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaSript"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" alt="MYSQL" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="C#" height="30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img src="https://i.picasion.com/pic92/a614185e216e7ef73cc2b6fb390f4435.gif">
+
+<div style="text-align: center; margin-top: 20px;">
+  <a href="https://github.com/nicolyjjang">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolyjjang&show_icons=true&theme=omni&include_all_commits=true&count_private=true">
+  </a>
+  <a href="https://github.com/nicolyjjang">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolyjjang&layout=compact&langs_count=6&theme=omni">
+  </a>
 </div>
- <br>
- 
-<div> 
- <a href = "mailto:nicolyjjang@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href = "https://www.linkedin.com/in/nicoly-jang-9883a0194/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
-![github-user-contribution](https://github.com/user-attachments/assets/2c09a542-aeb8-404b-aa96-9e9e4151cb18)
+<div style="text-align: center; display: inline-block;">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
+</div>
 
-generated with Platane/snk
- 
-<div>
+<div style="text-align: center; margin-top: 20px;">
+  ![github-user-contribution](https://github.com/user-attachments/assets/2c09a542-aeb8-404b-aa96-9e9e4151cb18)
+</div>
+
+<div style="text-align: center; margin-top: 20px;">
+  Generated with Platane/snk
+</div>
