@@ -14,6 +14,8 @@
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
   </div>
+  <br>
+  <br>
 
   <!-- Estatísticas do GitHub -->
   <div style="margin-top: 20px; display: flex; justify-content: center; gap: 20px;">
@@ -25,6 +27,8 @@
     </a>
   </div>
 
+<br>
+<br>
 
   <!-- Tecnologias -->
   <div style="margin-top: 20px;">
@@ -39,6 +43,8 @@
     <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   </div>
+
+<br>
 
   <!-- Contribuições do GitHub -->
 
