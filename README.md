@@ -1,6 +1,6 @@
 # Hi, I'm Nicoly Jang (●'◡'●)
 
-<div style="text-align: center;">
+<div style="align: center;">
 
   <!-- Redes sociais -->
   <div style="display: inline-block; text-align: center;">
