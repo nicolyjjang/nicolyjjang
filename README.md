@@ -34,9 +34,7 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div>
 
-<div style="text-align: center; margin-top: 20px;">
   ![github-user-contribution](https://github.com/user-attachments/assets/2c09a542-aeb8-404b-aa96-9e9e4151cb18)
-</div>
 
 <div style="text-align: center; margin-top: 20px;">
   Generated with Platane/snk
