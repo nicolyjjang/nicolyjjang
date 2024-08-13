@@ -1,6 +1,7 @@
 ## Hi, I'm Nicoly Jang (●'◡'●)
 
 <div style="display: flex; flex-direction: column; align-items: center;">
+  <!-- Redes sociais -->
   <div style="display: flex; justify-content: center; gap: 10px;">
     <a href="mailto:nicolyjjang@gmail.com">
       <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
@@ -13,7 +14,8 @@
     </a>
   </div>
 
-  <div style="margin-top: 20px;">
+  <!-- Estatísticas do GitHub -->
+  <div style="margin-top: 20px; display: flex; justify-content: center; gap: 20px;">
     <a href="https://github.com/nicolyjjang">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolyjjang&show_icons=true&theme=omni&include_all_commits=true&count_private=true">
     </a>
