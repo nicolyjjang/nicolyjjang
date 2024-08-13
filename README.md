@@ -1,8 +1,7 @@
-<!-- Container Principal -->
 <div style="text-align: center;">
 
   <!-- Redes sociais -->
-  <div style="display: inline-flex; justify-content: center; gap: 10px;">
+  <div style="display: inline-flex; gap: 10px;">
     <a href="mailto:nicolyjjang@gmail.com">
       <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
     </a>
@@ -15,7 +14,7 @@
   </div>
 
   <!-- Estatísticas do GitHub -->
-  <div style="margin-top: 20px; display: inline-flex; justify-content: center; gap: 20px;">
+  <div style="margin-top: 20px; display: inline-flex; gap: 20px;">
     <a href="https://github.com/nicolyjjang">
       <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolyjjang&show_icons=true&theme=omni&include_all_commits=true&count_private=true">
     </a>
