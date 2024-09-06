@@ -5,10 +5,10 @@
 </div>
 
 <div align="center">
-  <p>Sou desenvolvedora apaixonada por UI/UX e programação web, e ultimamente tenho me aventurado no mundo de dados. Gosto de criar experiências digitais que sejam bonitas e funcionais, sempre unindo design e tecnologia para resolver problemas de maneira criativa.</p>
+  <p>I am a developer passionate about UI/UX and web programming, and lately I have been venturing into the world of data. I enjoy creating digital experiences that are both beautiful and functional, always blending design and technology to solve problems creatively.</p>
 </div>
 
-<h2 align="center">🫱🏽‍🫲🏼 Vamos nos Conectar!!</h2>
+<h2 align="center">🫱🏽‍🫲🏼 Let's Connect!!</h2>
 <br>
 
 <div align="center">
@@ -32,7 +32,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolyjjang&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph" />
 </div>
 
-## Habilidades
+## Skills
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
   <img width="12" />
@@ -43,7 +43,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo" />
 </div>
 
-## Ferramentas
+## Tools
 <div align="center">
   <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo" />
   <img width="12" />
@@ -62,7 +62,7 @@
   <img src="https://cdn.simpleicons.org/replit/F26207" height="40" alt="replit logo" />
 </div>
 
-## Estudando
+## Currently Learning
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo" />
   <img width="12" />
@@ -79,7 +79,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo" />
 </div>
 
-## Pretendo estudar!
+## Planning to Learn!
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo" />
   <img width="12" />
@@ -92,6 +92,3 @@
 
 ## 
 <br>
-
-
-![github-user-contribution](https://github.com/user-attachments/assets/2c09a542-aeb8-404b-aa96-9e9e4151cb18)
