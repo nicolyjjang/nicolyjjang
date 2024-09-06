@@ -22,12 +22,11 @@
   <div align="center">
   <div style="margin-top: 20px; display: flex; justify-content: center; align-items: center;">
     <a href="https://github.com/nicolyjjang">
-  <div style="margin-top: 20px; display: flex; justify-content: center; align-items: center;">
     <a href="https://github.com/nicolyjjang" style="margin-right: 40px;">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolyjjang&show_icons=true&theme=omni&include_all_commits=true&count_private=true">
+      <img height="150" src="https://github-readme-stats.vercel.app/api?username=nicolyjjang&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true&count_private=true">
     </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolyjjang&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=nicolyjjang&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolyjjang&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=nicolyjjang&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 
