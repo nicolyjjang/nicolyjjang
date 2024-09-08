@@ -92,3 +92,7 @@
 
 ## 
 <br>
+
+<img src="https://raw.githubusercontent.com/nicolyjjang/nicolyjjang/output/snake.svg" alt="Snake animation" />
+
+###
