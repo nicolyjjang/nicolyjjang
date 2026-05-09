@@ -27,9 +27,11 @@
 
 <div align="center">
   <a href="https://github.com/nicolyjjang">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=nicolyjjang&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true&count_private=true" style="margin-right: 20px;" />
+    <img alt="Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=nicolyjjang&show_icons=true&count_private=true&theme=dracula&border_color=EA678C&bg_color=1A1B1F&title_color=EA678C&icon_color=F08030" height="192px" width="49.5%"/>
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolyjjang&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph" />
+  <a href="https://github.com/nicolyjjang">
+    <img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=nicolyjjang&langs_count=8&layout=compact&theme=dracula&border_color=EA678C&bg_color=1A1B1F&title_color=EA678C&icon_color=F08030" height="192px" width="49.5%"/>
+  </a>
 </div>
 
 ## Skills
