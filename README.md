@@ -27,10 +27,10 @@
 
 <div align="center">
   <a href="https://github.com/nicolyjjang">
-    <img alt="Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=nicolyjjang&show_icons=true&count_private=true&theme=dracula&border_color=EA678C&bg_color=1A1B1F&title_color=EA678C&icon_color=F08030" height="192px" width="49.5%"/>
+    <img alt="Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=nicolyjjang&show_icons=true&count_private=true&theme=dracula&border_color=EA678C&bg_color=1A1B1F&title_color=EA678C&icon_color=F08030" height="192px"/>
   </a>
   <a href="https://github.com/nicolyjjang">
-    <img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=nicolyjjang&langs_count=8&layout=compact&theme=dracula&border_color=EA678C&bg_color=1A1B1F&title_color=EA678C&icon_color=F08030" height="192px" width="49.5%"/>
+    <img alt="Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=nicolyjjang&langs_count=8&layout=compact&theme=dracula&border_color=EA678C&bg_color=1A1B1F&title_color=EA678C&icon_color=F08030" height="192px"/>
   </a>
 </div>
 
